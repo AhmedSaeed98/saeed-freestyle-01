@@ -6,5 +6,4 @@ echo "Hello, World."
 echo "Current directory: $(pwd)"
 echo "List of files in the current directory:"
 ls
-echo "Script executed successfully."
-echo "This is Ahmed Saeed the best DevOps Engineer ! - currently Senior Opearation @ Vodafone"
+echo "This is Ahmed Saeed the best DevOps Engineer ! - currently Senior Opearation @ Vodafone"
